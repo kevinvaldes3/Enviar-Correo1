@@ -1,0 +1,20 @@
+#slideshow{
+	text-align: center;
+	padding-bottom: 30px;
+	width: 800px;
+	padding-left: 80px; 
+	background: #d6e9f7;
+}
+
+#slideshow img{
+	cursor: pointer;
+	margin: 10px;
+	-webkit-transition: all .5s;
+	-moz-transition: all .5s;
+	-o-transition: all .5s;
+	-ms-transition: all .5s;
+	transition: all .5s;
+}
+
+
+

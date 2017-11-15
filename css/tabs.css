@@ -1,0 +1,40 @@
+#acordeonServicios{
+	width: 951px;
+	height: 303px;
+}
+
+#tabs{
+	background: #CCC;
+	padding: 10px;
+	text-align: center;
+}
+
+#tabs a{
+	color: #000;
+	font-size: 14px;
+	padding: 9px 11px 11px 11px;
+	text-decoration: none;
+	-moz-transition:all .5s;
+	-o-transition:all .5s;
+	-ms-transition:all .5s;
+	-webkit-transition:all .5s;
+	transition:all .5s;
+}
+
+#tabs a:hover{
+	background: #eee;
+}
+
+.tabContent{
+	display: none;
+	text-align: center;
+}
+
+.tabContent img{
+	margin-top: 10px;
+}
+
+.tabActual{
+	background: #fff !important;
+}
+
